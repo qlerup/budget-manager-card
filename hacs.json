@@ -1,0 +1,6 @@
+{
+  "name": "Budget Manager",
+  "filename": "budget-manager-card.js",
+  "homeassistant": "2024.12.0",
+  "render_readme": true
+}
