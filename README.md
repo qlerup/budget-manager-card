@@ -2,6 +2,11 @@
 
 <img width="2293" height="563" alt="image" src="https://github.com/user-attachments/assets/76395379-04f6-499a-8215-4c1a8f5f43b3" />
 
+## ⚠️ Prerequisite: install the integration first 🔌
+
+This card requires the **Budget Manager Sync** integration to be installed and working:
+
+https://github.com/qlerup/budget-manager-sync
 
 > The card expects a **sensor** (e.g. `sensor.budget_overview`) that exposes budget data via attributes, and a service domain `budget_manager` for adding/updating/removing items and participants. 🔌🧠
 
@@ -191,9 +196,3 @@ entity: sensor.budget_overview
 currency: "kr"
 ```
 
----
-
-## 🧾 Version notes 🏷️
-
-- `1.0.0` 🎉
-  - First release with participants, add/update/delete, table and GUI editor.
