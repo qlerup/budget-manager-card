@@ -1,5 +1,8 @@
 # 💸 Budget Manager Card – README 📊✨
 
+[![Downloads](https://img.shields.io/github/downloads/qlerup/budget-manager-card/total)](https://github.com/qlerup/budget-manager-card/releases)
+
+
 <img width="2293" height="563" alt="image" src="https://github.com/user-attachments/assets/76395379-04f6-499a-8215-4c1a8f5f43b3" />
 
 ## Support this project
